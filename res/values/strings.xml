@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Simple Finances</string>
+    <string name="ingresos">Ingresos</string>
+    <string name="gastos">Gastos</string>
+    <string name="cantidad_en_eur">cantidad en EUR...</string>
+    <string name="plussimbol">+</string>
+    <string name="minusSimbol">-</string>
+</resources>

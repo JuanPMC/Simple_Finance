@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  <color name="colorPrimary">#01a9b4</color>
+      <color name="colorPrimaryDark">#086972</color>
+      <color name="colorAccent">#87dfd6</color>
+      <color name="actBackground">#FFFFFF</color>
+      <color name="oroColorExtra">#CCFF90</color>-->
+    <color name="actBackground">#FFFFFF</color>
+    <color name="colorPrimary">#4e89ae</color>
+    <color name="colorPrimaryDark">#43658b</color>
+    <color name="colorAccent">#17B890</color>
+    <color name="oroColorExtra">#EAC435</color>
+
+  </resources>
